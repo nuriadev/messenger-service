@@ -1,0 +1,39 @@
+html {
+    background-image: linear-gradient(to right, lightblue , rgb(121, 121, 247));
+}
+
+h1 {
+    color: black;
+}
+.taula {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.taula td, .taula th {
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.taula th {
+    background-color: lightcoral;
+}
+
+.espacio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.email th{
+    background-color: white;
+    text-align: left;
+    padding: 3px;
+}
+
+.email td {
+    margin-left: 10px;
+    background-color: white;
+    text-align: left;
+}
